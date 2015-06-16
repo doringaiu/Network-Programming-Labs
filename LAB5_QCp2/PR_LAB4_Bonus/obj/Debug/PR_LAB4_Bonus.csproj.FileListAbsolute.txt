@@ -1,0 +1,9 @@
+c:\users\dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\bin\Debug\PR_LAB4_Bonus.exe.config
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\bin\Debug\PR_LAB4_Bonus.exe
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\bin\Debug\PR_LAB4_Bonus.pdb
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\obj\Debug\PR_LAB4_Bonus.csprojResolveAssemblyReference.cache
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\obj\Debug\PR_LAB4_Bonus.Form1.resources
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\obj\Debug\PR_LAB4_Bonus.Properties.Resources.resources
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\obj\Debug\PR_LAB4_Bonus.csproj.GenerateResource.Cache
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\obj\Debug\PR_LAB4_Bonus.exe
+C:\Users\Dorin\documents\visual studio 2015\Projects\PR_LAB4_Bonus\PR_LAB4_Bonus\obj\Debug\PR_LAB4_Bonus.pdb
