@@ -17,6 +17,7 @@ The document must cover the following minimal set of events/actions:
 
 Example:
 >! change nickname: "05 %s-old_nickname% %s-new_nickname%"  
+
 - The document must also contain a high-level description of QCP that explains the logic of the client and the order in which messages are sent in different contexts.
 
 #### Extended requirments
