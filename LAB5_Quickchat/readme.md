@@ -5,7 +5,7 @@ Understand and document the protocol used by **QuickChat** - a chat program for 
 - learn to appreciate the documentation, when you have it
 - learn to document your activities
 
-### Requirments:
+### Requirements:
 The QuickChat protocol (QCP) must be reverse-engineered first. The result of reverse-engineering must be a document that shows which messages are sent to the network when an event is triggered.  
 The document must cover the following minimal set of events/actions:
 - sending a public message
